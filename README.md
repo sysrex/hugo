@@ -1,8 +1,4 @@
-<h1 align="center">
-  <br>
-<p align="center">
-  [![Build Status](https://ci.alexkiss.dev/buildStatus/icon?job=Hugo)](https://ci.alexkiss.dev/job/Hugo/)
-<p>
+[![Build Status](https://ci.alexkiss.dev/buildStatus/icon?job=Hugo)](https://ci.alexkiss.dev/job/Hugo/)
 # Hugo extended
 Current Version: 0.64.0
 
