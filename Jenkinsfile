@@ -6,7 +6,7 @@ node {
     }
 
     stage('Build image') {
-        hugo = docker.build("sysrex/hugo")
+        hugo = docker.build("viaops/hugo")
     }
 
     stage('Test image') {
