@@ -14,3 +14,5 @@
 - There is a simple Jenkins tasks that builds the image and puts it in docker hub at [https://hub.docker.com/repository/docker/viaops/hugo](https://hub.docker.com/repository/docker/viaops/hugo)
 
 # why should you care?
+
+- Easy deployment steps
