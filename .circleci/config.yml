@@ -13,7 +13,7 @@ jobs:
       - checkout
       - run:
           name: "Build Docker Images"
-          command: docker build -t viaops/hugo:latest
+          command: docker build -t viaops/hugo:latest .
       - deploy:
           command: |
             if [ "${CIRCLE_BRANCH}" == "master" ]; then
