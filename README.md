@@ -1,6 +1,7 @@
 [![Build Status](https://jenkins.viaops.com/buildStatus/icon?job=Hugo?style=flat-square)](https://jenkins.viaops.com/job/Hugo/)
-[![GitHub issues](https://img.shields.io/github/viaops/hugo?style=flat)](https://github.com/viaops/hugo/issues)
+[![GitHub issues](https://img.shields.io/github/issues/viaops/hugo?style=flat-square)](https://github.com/viaops/hugo/issues)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/viaops/hugo)](https://github.com/viaops/hugo/pulls)
+[![Github forks](https://img.shields.io/github/forks/viaops/hugo)](https://github.com/viaops/hugo/forks)
 [![License](https://img.shields.io/github/license/viaops/hugo.svg)](license.txt)
 
 <br>
