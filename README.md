@@ -1,4 +1,4 @@
-[![Build Status](https://jenkins.viaops.com/buildStatus/icon?job=Hugo)](https://jenkins.viaops.com/job/Hugo/)
+[![Build Status](https://jenkins.viaops.com/buildStatus/icon?job=Hugo?style=flat-square)](https://jenkins.viaops.com/job/Hugo/)
 # Hugo extended
 
 [(Current Version 0.66.0)(https://github.com/viaops/hugo/releases/tag/0.66.0)](https://github.com/viaops/hugo/releases/tag/0.66.0)
