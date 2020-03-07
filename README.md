@@ -3,8 +3,7 @@
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/viaops/hugo?style=flat-square)](https://github.com/viaops/hugo/pulls)
 [![Github forks](https://img.shields.io/github/forks/viaops/hugo?style=flat-square)](https://github.com/viaops/hugo/forks)
 [![License](https://img.shields.io/github/license/viaops/hugo?style=flat-square)](license.txt)
-<br>
-[![Twitter](https://img.shields.io/twitter/follow/viaops?style=flat-square)
+[![Twitter](https://img.shields.io/twitter/follow/viaops?style=flat-square)]
 <br>
 [:package:(Current release)](https://github.com/viaops/hugo/releases/tag/0.66.0)
 
