@@ -5,7 +5,7 @@
 [![License](https://img.shields.io/github/license/viaops/hugo?style=flat-square)](license.txt)
 
 <br>
-[:package:(v0.68.1)](https://github.com/viaops/hugo/releases/tag/0.68.1)
+[!(v0.68.1)(https://github.com/viaops/hugo/releases/tag/0.68.3)]
 
 # Hugo extended Docker image
 
