@@ -2,10 +2,10 @@
 [![GitHub issues](https://img.shields.io/github/issues/viaops/hugo?style=flat-square)](https://github.com/viaops/hugo/issues)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/viaops/hugo?style=flat-square)](https://github.com/viaops/hugo/pulls)
 [![Github forks](https://img.shields.io/github/forks/viaops/hugo?style=flat-square)](https://github.com/viaops/hugo/forks)
+[![Release](https://img.shields.io/github/release/viaops/hugo.svg?style=flat-square)]()
 [![License](https://img.shields.io/github/license/viaops/hugo?style=flat-square)](license.txt)
 
 <br>
-[!(v0.68.1)(https://github.com/viaops/hugo/releases/tag/0.68.3)]
 
 # Hugo extended Docker image
 
