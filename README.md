@@ -19,4 +19,3 @@
 - Easy deployment steps
 
 
-Update readme
