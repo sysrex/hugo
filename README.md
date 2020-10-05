@@ -1,4 +1,4 @@
-[![Build Status](https://ci.viaops.com/buildStatus/icon?job=Hugo&style=flat-square)](https://ci.viaops.com/job/Hugo/)
+[![Build Status](https://ci.viaops.com/buildStatus/icon?job=hugo-extended&style=flat-square)](https://ci.viaops.com/job/hugo-extended/)
 [![GitHub issues](https://img.shields.io/github/issues/viaops/hugo?style=flat-square)](https://github.com/viaops/hugo/issues)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/viaops/hugo?style=flat-square)](https://github.com/viaops/hugo/pulls)
 [![Github forks](https://img.shields.io/github/forks/viaops/hugo?style=flat-square)](https://github.com/viaops/hugo/forks)
